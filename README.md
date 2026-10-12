@@ -2,17 +2,26 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**1** solved · 0 problems · 0 labs · 1 math
+**5** solved · 1 problems · 0 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
 [**Browse the interactive portfolio**](https://blakedean1.github.io/deep-ml/) to replay this filling in over time.
 
+## Problems
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-10-12 | [solution](problems/0083-dot-product-calculator) |
+
 ## Math
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Matrix Basics](https://www.deep-ml.com/math-problems/9) | easy | 2026-10-12 | [solution](math/0009-matrix-basics) |
 | [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-10-11 | [solution](math/0007-vector-operations) |
+| [Matrix Multiplication](https://www.deep-ml.com/math-problems/10) | medium | 2026-10-12 | [solution](math/0010-matrix-multiplication) |
+| [Vector Norms and Linear Independence](https://www.deep-ml.com/math-problems/8) | medium | 2026-10-12 | [solution](math/0008-vector-norms-and-linear-independence) |
 
 ---
 
